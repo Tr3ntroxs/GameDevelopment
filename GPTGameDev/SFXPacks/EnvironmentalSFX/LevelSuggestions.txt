@@ -1,0 +1,8 @@
+City:
+honks
+
+ 
+Forest: 
+footsteps (grass, wood), wind breeze, 
+
+Ruins:

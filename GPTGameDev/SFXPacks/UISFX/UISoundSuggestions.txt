@@ -1,0 +1,7 @@
+Menu clicks/level selection - Toggle Switch Deep*
+Enable/Disable - Typewriter Key*
+Audio Sliders - Toggle Switch High
+Dress change - Zipper
+Exit (different sound) - Single Oil Can
+
+* - Could use pitch change

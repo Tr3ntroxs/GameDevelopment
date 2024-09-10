@@ -1,0 +1,10 @@
+Jump - Wet Thud**
+Landing Impact - Short Splat/Wet Thud
+Sliding - Broken Skid**
+Climbing - Small Wood Crash**
+Running (at beginning of action) - Quick Swinging Swish
+Slowdown/Skid - Quick Swish***
+
+* - Could use pitch change
+** - Could use edit (split up and/or loops)
+*** - Both
